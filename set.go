@@ -1,4 +1,4 @@
-package set
+package go-set
 
 
 type Set[T comparable] struct{
